@@ -12,7 +12,6 @@
 
 <hr></hr>
 
-- :computer: Currently working as Jr. developer at <a href = "https://www.way2.com.br/solucoes/line/?utm_source=google&utm_medium=cpc&utm_campaign=dinamico_produtos&gclid=CjwKCAiApfeQBhAUEiwA7K_UH7TyhZPY79GB26bToInObRtea7nm2X6f4B-n8fOqeB30ZYyREG7kkBoChvQQAvD_BwE">Way2 Technology</a>
 - :earth_americas: Learning to improve my knowledges and discover new possibilities
 - :smile_cat: Hobbies: Read, take care of my three cats and plants
 
