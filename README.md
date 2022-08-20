@@ -13,7 +13,7 @@
 <hr></hr>
 
 - :earth_americas: Learning to improve my knowledges and discover new possibilities
-- :smile_cat: Hobbies: Read, take care of my three cats and plants
+- :smile_cat: Hobbies: Read, take care of my two cats and plants
 
 <!--
 **EsterRibeiro/EsterRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
